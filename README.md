@@ -1,28 +1,19 @@
 # Emergency Response Simulation
+**By [Fikire Tibebu]**
 
-A C# console application simulating emergency unit dispatch.
+A C# console application demonstrating OOP principles through an emergency unit dispatch system.
 
 ## Features
 - Police, Firefighter, and Ambulance units
-- Random incident generation
-- Scoring system
+- Random incident generation ("Crime", "Fire", "Medical")
+- Scoring system (+10 for success, -5 for unhandled incidents)
+
+## OOP Concepts Applied
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
 
 ## How to Run
-```cmd
+```bash
 dotnet run
-## Hi there 👋
-
-<!--
-**fike21/fike21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
